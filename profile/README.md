@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">We are qlick 👋</h1>
+  <h1 align="center">Hey 👋, We are qlick</h1>
   
   <h3 align="left">Connect with us:</h3>
   <p align="left">
@@ -15,7 +15,6 @@
   <h3 align="left">Tools:</h3>
   <p align="left">
     <a href="https://firebase.google.com/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" /></a>
-    <br /><br />
     <a href="https://nodejs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="NodeJS" /></a>
     <a href="https://tauri.app/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" /></a>
     <a href="https://astro.build/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" /></a>
