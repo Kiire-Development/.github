@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hey 👋, We are qlick</h1>
-  <a href="https://glick.dev">Website</a>
+  <a href="https://qlick.dev">Website</a>
   
   <h3 align="left">Connect with us:</h3>
   <p align="left">
