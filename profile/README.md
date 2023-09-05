@@ -17,7 +17,7 @@
     <a href="https://firebase.google.com/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" /></a>
     <a href="https://nodejs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="NodeJS" /></a>
     <a href="https://tauri.app/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" /></a>
-    <a href="https://astro.build/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" /></a>
+    <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=next&theme=dark" alt="Next" /></a>
   </p>
 
   <h3 align="left">IDEs:</h3>
